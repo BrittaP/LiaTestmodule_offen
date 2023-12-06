@@ -3,6 +3,8 @@ author:   Jessika Stiefken
 
 email:    stu120720@mail.uni-kiel.de
 
+icon: Ordnung_und_Stuktur/Abbildungen/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
 version:  0.0.1
 
 language: de
