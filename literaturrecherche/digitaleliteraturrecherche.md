@@ -3,8 +3,6 @@ author:   Jessika Stiefken
 
 email:    stu120720@mail.uni-kiel.de
 
-icon: Ordnung_und_Stuktur/Abbildungen/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
 version:  0.0.1
 
 language: de
@@ -25,7 +23,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 <section>
 
-![Sketch Literaturrecherche](literaturrecherche/Media/RechercheComic.jpg)
+![Sketch Literaturrecherche](Media/RechercheComic.jpg)
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
