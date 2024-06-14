@@ -52,8 +52,11 @@ In diesem Baustein stellen wir dir einige nützliche Strategien und Tools für d
  Wir wünschen dir viel Spaß!
  
 <br>
->**Lizenzhinweis**
->Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
+
+**Lizenzhinweis**
+<br>
+Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
+
 </section>
 
 ## Vom Thema zum Suchbegriff
